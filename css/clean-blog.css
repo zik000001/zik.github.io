@@ -133,8 +133,7 @@ hr.small {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: white;
-    text-shadow: 0 0 5px #000000
+    color: black;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -142,8 +141,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
-    text-shadow: 0 0 5px #000000
+    color: black;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -278,7 +276,6 @@ hr.small {
 }
 .intro-header .post-heading .meta a {
   color: white;
-  text-shadow: 0 0 5px #000000
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
