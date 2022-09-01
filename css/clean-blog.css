@@ -451,7 +451,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #0085a1;
   border: 1px solid #0085a1;
-  color: white;
+  color: black;
 }
 .pager {
   margin: 20px 0 0;
