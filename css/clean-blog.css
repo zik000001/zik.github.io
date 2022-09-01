@@ -67,6 +67,7 @@ hr.small {
   margin: 15px auto;
   border-width: 4px;
   border-color: white;
+  text-shadow: 0 0 5px #000000
 }
 @media screen and (max-width: 500px) {
   pre code {
@@ -132,7 +133,8 @@ hr.small {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: black;
+    color: white;
+    text-shadow: 0 0 5px #000000
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -140,7 +142,8 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: black;
+    color: white;
+    text-shadow: 0 0 5px #000000
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -274,7 +277,7 @@ hr.small {
   font-size: 17px;
 }
 .intro-header .post-heading .meta a {
-  color: black;
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -452,7 +455,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #0085a1;
   border: 1px solid #0085a1;
-  color: black;
+  color: white;
 }
 .pager {
   margin: 20px 0 0;
@@ -466,7 +469,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: black;
+  background-color: white;
   border-radius: 0;
 }
 @media only screen and (min-width: 768px) {
@@ -481,7 +484,7 @@ form .row:first-child .floating-label-form-group {
 }c
 .pager li > a:hover,
 .pager li > a:focus {
-  color: black;
+  color: white;
   background-color: #00c9d7;
   border: 1px solid #00c9d7;
 }
@@ -494,21 +497,21 @@ form .row:first-child .floating-label-form-group {
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: black;
+  color: white;
   text-shadow: none;
   background: #00c9d7;
 }
 ::selection {
-  color: black;
+  color: white;
   text-shadow: none;
   background: #00c9d7;
 }
 img::selection {
-  color: black;
+  color: white;
   background: transparent;
 }
 img::-moz-selection {
-  color: black;
+  color: white;
   background: transparent;
 }
 body {
