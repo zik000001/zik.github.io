@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "myself"
+title: "Myself"
 description: "私は誰ですか"
 header-img: "img/zhihu.jpg"
 ---
