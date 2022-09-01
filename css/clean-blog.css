@@ -66,7 +66,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: black;
+  border-color: white;
 }
 @media screen and (max-width: 500px) {
   pre code {
@@ -105,7 +105,7 @@ hr.small {
   margin-top: 20px;
 }
 .navbar-custom {
-  background: black;
+  background: white;
   position: absolute;
   top: 0;
   left: 0;
@@ -132,7 +132,7 @@ hr.small {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: black;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -140,7 +140,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: black;
+    color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -216,7 +216,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: white;
+  color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
