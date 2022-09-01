@@ -66,7 +66,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: black;
 }
 @media screen and (max-width: 500px) {
   pre code {
@@ -132,7 +132,7 @@ hr.small {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: black;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -140,7 +140,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: black;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
@@ -503,11 +503,11 @@ form .row:first-child .floating-label-form-group {
   background: #00c9d7;
 }
 img::selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: black;
   background: transparent;
 }
 body {
