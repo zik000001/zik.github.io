@@ -273,7 +273,7 @@ hr.small {
   font-size: 17px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -451,7 +451,7 @@ form .row:first-child .floating-label-form-group {
 .btn-default:focus {
   background-color: #0085a1;
   border: 1px solid #0085a1;
-  color: white;
+  color: black;
 }
 .pager {
   margin: 20px 0 0;
@@ -465,7 +465,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: white;
+  background-color: black;
   border-radius: 0;
 }
 @media only screen and (min-width: 768px) {
@@ -480,7 +480,7 @@ form .row:first-child .floating-label-form-group {
 }c
 .pager li > a:hover,
 .pager li > a:focus {
-  color: white;
+  color: black;
   background-color: #00c9d7;
   border: 1px solid #00c9d7;
 }
@@ -493,12 +493,12 @@ form .row:first-child .floating-label-form-group {
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #00c9d7;
 }
 ::selection {
-  color: white;
+  color: black;
   text-shadow: none;
   background: #00c9d7;
 }
