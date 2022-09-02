@@ -51,8 +51,12 @@ defaults:
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
-# Disqus（https://disqus.com/）
-disqus_username: 'disqus_JJVCXz0qZ5'
+comments :
+  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
+  duoshuo :
+    short_name : disqus_JJVCXz0qZ5 # 填写你的 disqus id
+  disqus :
+      short_name : disqus_JJVCXz0qZ5 # 填写你的 disqus id
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: G-LJRQX7RK0J # 填写你  google_analytics id
