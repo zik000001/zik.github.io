@@ -17,7 +17,7 @@ gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 # SNS settings
-RSS: false
+RSS: true
 douban_username:  # 你的豆瓣id
 twitter_username: ZIYZK 
 github_username: ziyzk
@@ -52,11 +52,11 @@ defaults:
 
 # Comments 
 # Disqus（https://disqus.com/）
-disqus_username: disqus_JJVCXz0qZ5
+disqus_username: 'disqus_JJVCXz0qZ5'
 
 # Analytics and webmaster tools stuff goes here
 ga_track_id: 'G-LJRQX7RK0J'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: ziyzk.online			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。:
+ga_domain: auto			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
