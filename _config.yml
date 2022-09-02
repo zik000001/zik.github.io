@@ -55,8 +55,8 @@ defaults:
 disqus_username: 'disqus_JJVCXz0qZ5'
 
 # Analytics and webmaster tools stuff goes here
-ga_track_id: 'G-LJRQX7RK0J'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: ziyzk.online			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。:
+google_analytics: G-LJRQX7RK0J # 填写你  google_analytics id
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
