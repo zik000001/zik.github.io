@@ -39,22 +39,6 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 
-# Friends
-friends: [
-    {
-        title: "我的B站账号",
-        href: "https://space.bilibili.com/1059657862?spm_id_from=333.1007.0.0"
-    },
-    {
-        title: "我的贴吧账号",
-        href: "https://tieba.baidu.com/home/main?id=tb.1.da169aa6.Ry9jlMpUVlYxVXs4PB8BVg?t=1644660487&fr=index"
-    }
-    {
-        title: "我的油管账号",
-        href: "https://www.youtube.com/channel/UCmRIQUSGxRFhR5COVswsA1w"
-    }
-]
-
 # Defaults for posts
 defaults:
   -
@@ -82,3 +66,18 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+# Friends
+friends: [
+    {
+        title: "我的B站账号",
+        href: "https://space.bilibili.com/1059657862?spm_id_from=333.1007.0.0"
+    },
+    {
+        title: "我的贴吧账号",
+        href: "https://tieba.baidu.com/home/main?id=tb.1.da169aa6.Ry9jlMpUVlYxVXs4PB8BVg?t=1644660487&fr=index"
+    }
+    {
+        title: "我的油管账号",
+        href: "https://www.youtube.com/channel/UCmRIQUSGxRFhR5COVswsA1w"
+    }
+]
