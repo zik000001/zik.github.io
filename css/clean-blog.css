@@ -142,6 +142,7 @@ hr.small {
   }
   .navbar-custom .nav li a {
     color: black;
+    text-shadow: 0 0 5px 	#F8F8FF
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
