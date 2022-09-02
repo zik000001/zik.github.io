@@ -16,6 +16,8 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
+# SNS settings
+RSS: false
 douban_username:  # 你的豆瓣id
 twitter_username: ZIYZK 
 github_username: ziyzk
