@@ -50,11 +50,6 @@ defaults:
       author: "ZIYZK" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Sidebar settings
-sidebar: true  #添加侧边栏
-sidebar-about-description: いらっしゃいませ！
-sidebar-avatar: https://imgse.com/i/vIL2Tg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
-
 # Comments 
 # Disqus（https://disqus.com/）
 disqus_username: 'disqus_JJVCXz0qZ5'
