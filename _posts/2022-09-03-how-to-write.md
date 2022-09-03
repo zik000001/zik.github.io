@@ -6,6 +6,7 @@ categories: blog
 tags: [鉴赏家]
 description: 文章金句。
 ---
+<embed src=//music.163.com/outchain/player?type=2&id=774472&auto=1&height=66 width=310 height=66 type=audio/mpeg loop="true" autostart="true">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     近日，在晚上失眠之时，我在互联网上发现了这个社团的作品。
