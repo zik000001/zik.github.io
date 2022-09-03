@@ -16,6 +16,6 @@ description: 文章金句。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尽管这些作品年代有些久远，建模在今日也算不上精美，但我认为只要能打动人心的作品便是好作品！在当时PC性能有限的情况下，该社团仍能产出如此优秀且大量的佳作，以至于在作品出版多年之后，其电子版销量在DLsite上仍能霸榜
 
-<a href="https://imgse.com/i/vIzTXR"><img src="https://s1.ax1x.com/2022/09/03/vIzTXR.png" alt="vIzTXR.png" border="0" /></a>
+<a href="https://imgse.com/i/voSScd"><img src="https://s1.ax1x.com/2022/09/03/voSScd.png" alt="voSScd.png" border="0" /></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以看出，OZ社是真心热爱同人创作，并真正投身于同人创作的！再想起现在的某些社团，以同人之名行商业之事，一心只为借IP之流量圈钱，而不注重作品的打磨，不得不让人感慨万千。
