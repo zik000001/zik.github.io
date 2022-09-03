@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 宝藏社团鉴赏-@OZ
+title: 同人社团鉴赏-@OZ
 date: 2022-09-03
 categories: blog
 tags: [鉴赏家]
