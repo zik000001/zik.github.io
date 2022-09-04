@@ -53,7 +53,7 @@ description:
 
 <a href='https://postimg.cc/ZW5fDMsd' target='_blank'><img src='https://i.postimg.cc/mgQ0hxQ8/2022-09-04-125343.png' border='0' alt='2022-09-04-125343'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：非常的新鲜，非常的美味啊！（指现产现饮）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：“非常的新鲜，非常的美味啊！”（指现产现饮）
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rySNt8d6/2022-09-04-125918.png' border='0' alt='2022-09-04-125918'/></a>
 
@@ -95,9 +95,9 @@ description:
 
 <a href='https://postimg.cc/T5wf1372' target='_blank'><img src='https://i.postimg.cc/6qV3H7CZ/2022-09-04-163631.png' border='0' alt='2022-09-04-163631'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：总算是有正常的食物了。（喜）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谆平：不不（无慈悲）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：“总算是有正常的食物了。”（喜）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谆平：“不不。”（无慈悲）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。然后，在服务员谆平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。再然后，在服务员谆平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
 
 <a href='https://postimg.cc/21sWWVZ5' target='_blank'><img src='https://i.postimg.cc/43dQrc4p/2022-09-04-170039.png' border='0' alt='2022-09-04-170039'/></a>
 
@@ -107,7 +107,7 @@ description:
 
 <a href='https://postimg.cc/qtTh1WMc' target='_blank'><img src='https://i.postimg.cc/rpd1wLBH/2022-09-04-165619.png' border='0' alt='2022-09-04-165619'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不满于最终奖励的德川发出狂野的怒吼：嗯，嘛！啊！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不满于最终奖励的德川发出狂野的怒吼：“嗯，嘛！啊！”
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TYpNWZvr/2022-09-04-165756.png' border='0' alt='2022-09-04-165756'/></a>
 
