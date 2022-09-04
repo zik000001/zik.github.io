@@ -8,6 +8,8 @@ tags: [Homo]
 description: 
 ---
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1908127754&auto=1&height=66"></iframe>
+
 <a href='https://postimg.cc/s1XhtJfW' target='_blank'><img src='https://i.postimg.cc/wx5QRWSw/Homo.jpg' border='0' alt='Homo'/></a>
 
 序：为什么我要写这篇文章？因为随着inm梗的dssq，越来越多的人开始对inm本篇感兴趣。但真正看完后，一些本篇的内容又会给一部分人留下阴影。为了减少这种不幸的发生，故作此篇，以震撼感较低（至少比直接看本篇低）的方法来缓解没看过本篇之人的好奇心（你直接告诉没看过的人别看，大概率只会加重其好奇心）。同时通过尚存的部分震撼感让一部分小鬼产生阴影并退圈，为inm圈留下更多真homo。
@@ -118,5 +120,3 @@ description:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好了，还有谁要看本篇？
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是我，混响博主（误
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1908127754&auto=1&height=66"></iframe>
