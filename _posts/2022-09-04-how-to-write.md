@@ -21,8 +21,6 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短短一言，以通俗且如野兽般粗犷的辞藻，道出了人不可过于贪婪，以强迫自己做出自身能力之外的事的人生真谛，包含了德川前辈的谆谆教诲（误
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要不是我能力不足，这个页面真该配上那首BGM。什么，你问哪首？你一定知道的罢。嗯，嘛，就是那首啊！（现在使用PC端浏览器阅读的话已经有BGM了）
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实对于淫梦梗，我从高一便有所耳闻，但一直没什么兴趣去了解，直到去年由于蜀黍的推送而了解到了航梗。话说，第一次蜀黍给我推悠悠太的时候我还在疑惑：这是个甚么东西？现在回想起来不禁令人感叹：大数据真是太可怕了！
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很多人应该都看过这类视频罢：两名身着西装的男子，坐在黑色高级沙发上，伴随着高雅的圣诞快乐·劳伦斯先生，细细品鉴着面前的食品，脸上洋溢着和我品鉴食雪汉本篇时一样难以表述的神情。德川和我修院品鉴食品，我品鉴视频，我们都有一样（homo）光明的未来！（误
@@ -37,7 +35,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从今天做起，从你我做起，不当只玩梗的小鬼，正式成为一个一个敢于迎男而上的Homo罢！
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZnvWYNLX/1.png' border='0' alt='1'/></a>
+<a href='https://postimg.cc/m1RL8tJS' target='_blank'><img src='https://i.postimg.cc/ZnvWYNLX/1.png' border='0' alt='1'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人类有三大欲望，食欲，性欲，睡眠欲，而在这三大欲望当中，因为食欲是满足人类生存需求的欲望，所以，满足食欲的行为，在这三者中，优先性是第一位的。如果能在进食的过程中，吃下了美味的食物，也能使人类无比愉快，而在现实生活中，存在着对于这种快感执着追求的人，我们通常把这种人称之为美食家，而本餐厅，则专门为那些厌倦世间常见美食的人，量体裁衣，提供符合他们身份的美食。
 
@@ -57,7 +55,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：“非常的新鲜，非常的美味啊！”（指现产现饮）
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rySNt8d6/2022-09-04-125918.png' border='0' alt='2022-09-04-125918'/></a>
+<a href='https://postimg.cc/BtnKrfcN' target='_blank'><img src='https://i.postimg.cc/rySNt8d6/2022-09-04-125918.png' border='0' alt='2022-09-04-125918'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;给德川倒了一整杯，给我修院只倒了半杯，Homo特有区别对待。
 
@@ -69,7 +67,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 3，看起来就是把第二道菜剩下的食材拌匀后脱入新雪制成的（呕
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sg32tSST/2022-09-04-160757.png' border='0' alt='2022-09-04-160757'/></a>
+<a href='https://postimg.cc/cr5Z3vF3' target='_blank'><img src='https://i.postimg.cc/sg32tSST/2022-09-04-160757.png' border='0' alt='2022-09-04-160757'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短暂平复心情后，我还是决定继续鉴赏下去。果然，功夫不负有心人。
 
@@ -79,17 +77,17 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在品鉴这道菜时，二人难以主动进餐。为避免食材浪费，服务员开始主动喂食。
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/k5WGzmgd/2022-09-04-161654.png' border='0' alt='2022-09-04-161654'/></a>
+<a href='https://postimg.cc/FfshkwSP' target='_blank'><img src='https://i.postimg.cc/k5WGzmgd/2022-09-04-161654.png' border='0' alt='2022-09-04-161654'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 4，大名鼎鼎的雪酱意面。
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Sx427Rrp/2022-09-04-162142.png' border='0' alt='2022-09-04-162142'/></a>
+<a href='https://postimg.cc/YhXCtpZX' target='_blank'><img src='https://i.postimg.cc/Sx427Rrp/2022-09-04-162142.png' border='0' alt='2022-09-04-162142'/></a>
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/8PzWqjvB/2022-09-04-162522.png' border='0' alt='2022-09-04-162522'/></a>
+<a href='https://postimg.cc/WtxhZpXh' target='_blank'><img src='https://i.postimg.cc/8PzWqjvB/2022-09-04-162522.png' border='0' alt='2022-09-04-162522'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Homo特有拌面手法。
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rwKhLqb3/2022-09-04-162721.png' border='0' alt='2022-09-04-162721'/></a>
+<a href='https://postimg.cc/v4w7rwGt' target='_blank'><img src='https://i.postimg.cc/rwKhLqb3/2022-09-04-162721.png' border='0' alt='2022-09-04-162721'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同样的新鲜，同样的让人难以下咽，同样的服务员主动投喂。
 
@@ -111,11 +109,11 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不满于最终奖励的德川发出狂野的怒吼：“嗯，嘛！啊！”
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TYpNWZvr/2022-09-04-165756.png' border='0' alt='2022-09-04-165756'/></a>
+<a href='https://postimg.cc/ppMJwcTT' target='_blank'><img src='https://i.postimg.cc/TYpNWZvr/2022-09-04-165756.png' border='0' alt='2022-09-04-165756'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结局，二人幸终。
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/25RCtQ7K/2022-09-04-170213.png' border='0' alt='2022-09-04-170213'/></a>
+<a href='https://postimg.cc/PCyGp8cW' target='_blank'><img src='https://i.postimg.cc/25RCtQ7K/2022-09-04-170213.png' border='0' alt='2022-09-04-170213'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好了，还有谁要看本篇？
 
