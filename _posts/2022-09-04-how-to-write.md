@@ -17,7 +17,7 @@ description:
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—德川
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短短一言，以通俗且如野兽般粗犷的辞藻，道出了人不可过于贪婪，以强迫自己做出自身能力之外的事的人生真谛，包含了德川前辈的谆谆教诲（误）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;短短一言，以通俗且如野兽般粗犷的辞藻，道出了人不可过于贪婪，以强迫自己做出自身能力之外的事的人生真谛，包含了德川前辈的谆谆教诲（误
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要不是我能力不足，这个页面真该配上那首BGM。什么，你问哪首？你一定知道的罢。嗯，嘛，就是那首啊。
 
