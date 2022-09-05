@@ -7,6 +7,8 @@ tags: [鉴赏家]
 description: 文章金句。
 ---
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=785887&auto=1&height=66"></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     近日，在晚上失眠之时，我在互联网上发现了这个社团的作品。
 
