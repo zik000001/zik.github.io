@@ -61,7 +61,7 @@ description: 老爷，多日不见，你想小人吗？
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王爷の极霸矛
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着，伴随着一声“哎呀”，王爷平移到了床上。接着，便和小人开始前戏。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着，伴随着一声“哎呀”，王爷平移到了床上。然后，便和小人开始前戏。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 1,小人撸王爷。
 
