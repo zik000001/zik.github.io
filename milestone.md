@@ -5,8 +5,7 @@ description: "私は誰ですか"
 header-img: "img/green.jpg"
 ---
 
-就读于兖州一中的普通高三社畜。
-
+成分复杂的申必人，仅称为ZIYZK。
 
 
 
