@@ -87,7 +87,7 @@ description: 老爷，多日不见，你想小人吗？
 
 <a href='https://postimg.cc/5XBNtFcL' target='_blank'><img src='https://i.postimg.cc/DwDWBqBj/2022-09-05-084040.png' border='0' alt='2022-09-05-084040'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前戏结束。接着王爷挺起极霸矛，向小人的菊花刺去。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前戏结束。王爷挺起极霸矛，向小人的菊部刺去。
 
 <a href='https://postimg.cc/m1Y69RTX' target='_blank'><img src='https://i.postimg.cc/QCwLRxw3/2022-09-05-084113.png' border='0' alt='2022-09-05-084113'/></a>
 
