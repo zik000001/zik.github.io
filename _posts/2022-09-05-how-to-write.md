@@ -27,7 +27,7 @@ description: 老爷，多日不见，你想小人吗？
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想啊，很想啊（指迫不及待想要在淫梦圈出道
 
-<a href='https://postimg.cc/3WdJ1Y9z' target='_blank'><img src='https://i.postimg.cc/rpbKzhCq/2022-09-05-081326.png' border='0' alt='2022-09-05-081326'/></a>
+<a href='https://postimg.cc/LqtHb3bW' target='_blank'><img src='https://i.postimg.cc/rpbKzhCq/2022-09-05-081326.png' border='0' alt='2022-09-05-081326'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开场的Homo特有无意义运镜与周董本篇简直有异曲同工之妙！
 
