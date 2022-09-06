@@ -13,7 +13,7 @@ header-img: "img/green.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.建议在PC端浏览，以获得最佳体验。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.本网站完全会员制，请不要将本网站内容擅自泄露，否则可能会有生命危险（误
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.本网站完全会员制，请不要将本网站内容擅自泄露，否则可能会有生命危险（迫真
 
 
 
