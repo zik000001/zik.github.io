@@ -15,6 +15,8 @@ header-img: "img/green.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.本网站完全会员制，请不要将本网站内容擅自泄露，否则可能会有生命危险（迫真
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系站长：master@ziyzk.online
+
 
 
 
