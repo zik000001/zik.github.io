@@ -18,14 +18,6 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 # SNS settings
 RSS: true
-douban_username:  # 你的豆瓣id
-twitter_username: ZIYZK 
-github_username: ziyzk
-facebook_username: Zhang Yike
-weibo_username: 
-zhihu_username: jie-gua-66
-bilibili_username: 1059657862
-tieba.baidu_username: tb.1.da169aa6.Ry9jlMpUVlYxVXs4PB8BVg
 
 # Build settings  
 # use Github Flavored Markdown !important  
