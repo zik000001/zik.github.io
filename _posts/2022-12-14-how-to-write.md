@@ -12,7 +12,7 @@ description: 点到为止
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从入手铁三角的ATH-M70x以来，入坑HIFI也有几年的时间了，现在来谈谈我的感受吧。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HIFI，短短四个字母，却仿佛自带尊贵属性，与其相关的一切产品都拥有着令圈外人难以置信的价格，贴上Hi-Res小金标就如同给商品开了光一般。至于花这个钱值不值得，大家见仁见智，这次我不讲参数，就只从我的实际听感上谈谈我的看法。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HIFI，短短四个字母，却仿佛自带尊贵属性，与其相关的一切产品都拥有着令圈外人难以置信的价格，贴上Hi-Res小金标就如同给商品开了光一般。至于花这个钱值不值得，大家见仁见智，这次我不讲参数，就只从我的实际听感上讲讲我的看法。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刚入手M70x的时候，我就地取材，用的IPhone7连艾巴索的小尾巴DC05来听的，实际听感上，声场比我之前用的airports pro要宽广不少，调音风格上和airports pro相差也比较大，具体差距我也记不太清了，貌似M70x的低频比airpots pro量要少，但M70x的瞬态很不错，所以听着鼓点声比airports pro要干净利落。
 
