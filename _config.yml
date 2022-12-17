@@ -8,9 +8,9 @@ url: "ziyzk.online"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "ZIYZK" # 填写作者信息：名字
-  email: w1856444@outlook.com # 填写作者信息：邮箱
-  bio: "某高中社畜的小窝" # 填写作者信息：博客描述
+  name: "ZIK" # 填写作者信息：名字
+  email: master@ziyzk.online # 填写作者信息：邮箱
+  bio: "某社畜的小窝" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
