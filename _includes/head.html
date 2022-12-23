@@ -37,8 +37,13 @@
 var password="w1856444";
 password=prompt('请输入密码 (本网站需输入密码才可进入):','');
 if (password != 'mima')
-    {alert("密码正确");
+    {alert("密码不正确");
     window.opener=null; window.close();}  // 密码不正确就关闭
 //-->
 </script>
 </head>
+
+<body>
+<p style="color:red;font-size20;">密码正确</p>
+</body>    
+</html>
