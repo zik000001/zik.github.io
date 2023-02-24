@@ -97,7 +97,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：“总算是有正常的食物了。”（喜）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;淳平：“不不。”（无慈悲）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。再然后，在服务员谆平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。再然后，在服务员淳平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
 
 <a href='https://postimg.cc/21sWWVZ5' target='_blank'><img src='https://i.postimg.cc/43dQrc4p/2022-09-04-170039.png' border='0' alt='2022-09-04-170039'/></a>
 
