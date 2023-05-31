@@ -44,4 +44,4 @@ defaults:
 
 [params.utterances] # https://utteranc.es/
 owner = "zik000001" # Your GitHub ID
-repo = "zik000001/blog-img-Comment" # The repo to store comments
+repo = "http://ziyzk.online" # The repo to store comments
