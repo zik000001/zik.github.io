@@ -42,6 +42,8 @@ defaults:
       author: "ZIK" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
+# Comments 
+comments :
 <div class="powr-comments" id="4bb697cd_1685529354"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 # Analytics and webmaster tools stuff goes here
