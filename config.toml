@@ -1,0 +1,3 @@
+[params.utterances] # https://utteranc.es/
+owner = "zik000001" # Your GitHub ID
+repo = "http://ziyzk.online" # The repo to store comment
