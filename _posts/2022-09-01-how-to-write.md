@@ -12,7 +12,7 @@ description: 文章金句。
 
 Test
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="blog-img-Comment"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
