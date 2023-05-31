@@ -5,23 +5,6 @@ description: "いらっしゃいませ！"
 
 <embed src=//music.163.com/outchain/player?type=2&id=774472&auto=1&height=66 width=310 height=66 type=audio/mpeg loop="true" autostart="true">
 
-<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script>
-    const gitalk = new Gitalk({
-        // 这个需要在github上申请一个OAuth application
-        clientID: '6a4b36184be142a901c6',   // GitHub Application Client ID
-        clientSecret: '9d746706016841a5848877a3736c9134d37045c0',   // GitHub Application Client Secret
-        repo: 'blog-img-Comment', // //存储你评论 issue 的 Github 仓库名
-        owner: 'ZIK',
-        admin: ['ZIK'],    // 这个仓库的管理员
-        distractionFreeMode: true,  // 是否添加全屏遮罩
-        id: window.location.pathname    // 页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
-    })
-    gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
-</script>
-
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
