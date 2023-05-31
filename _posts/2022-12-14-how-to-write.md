@@ -25,3 +25,11 @@ description: 点到为止
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/PpxsvPsR' target='_blank'><img src='https://i.postimg.cc/63V9SvHt/20221217114222.jpg' border='0' alt='20221217114222'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所以入HIFI，点到即可，价格达到一定程度后再往里投钱提升就比较有限了。现在，作为一个退烧之人，只想说一句：早知道，还是原道。
+
+<script src="https://utteranc.es/client.js"
+        repo="zik000001/blog-img-Comment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
