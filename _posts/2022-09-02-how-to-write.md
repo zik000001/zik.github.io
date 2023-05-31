@@ -15,7 +15,7 @@ tags: [测试]
 <a href='https://postimg.cc/8jBVJJ55' target='_blank'><img src='https://i.postimg.cc/ZKXYQ6zr/vI6nO0.jpg' border='0' alt='vI6nO0'/></a>
 
 <script src="https://utteranc.es/client.js"
-        repo="zik000001/blog-img-Comment"
+        repo="zik000001/zik.github.io/_posts/2022-09-02-how-to-write.md"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
