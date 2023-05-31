@@ -19,15 +19,3 @@ Test
         crossorigin="anonymous"
         async>
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
