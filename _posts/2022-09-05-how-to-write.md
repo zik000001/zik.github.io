@@ -100,3 +100,11 @@ description: 老爷，多日不见，你想小人吗？
 <a href='https://postimg.cc/v19QKghc' target='_blank'><img src='https://i.postimg.cc/tgvYYFVt/2022-09-05-084200.png' border='0' alt='2022-09-05-084200'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好了，还有谁要看王爷本篇？
+
+<script src="https://utteranc.es/client.js"
+        repo="zik000001/blog-img-Comment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
