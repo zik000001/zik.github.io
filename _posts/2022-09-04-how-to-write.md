@@ -118,11 +118,3 @@ description:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;好了，还有谁要看本篇？
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是我，混响博主（误
-
-<script src="https://utteranc.es/client.js"
-        repo="zik000001/blog-img-Comment"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
