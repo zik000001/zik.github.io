@@ -41,7 +41,3 @@ defaults:
       layout: "post"
       author: "ZIK" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
-
-comments:
-  enable: true
-  type: utterances
