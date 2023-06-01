@@ -1,23 +1,36 @@
 /*  Back Top Button  */
 #back-top {
   position: fixed;
-  bottom: 30px;
-  margin-left: 1040px;
+  bottom: 2rem;
+  right: 2rem;
 }
 #back-top a {
-  width: 54px;
-  height: 54px;
-  display: block;
-  background: #ddd url(/img/Back-Top_Arrow.png) no-repeat center center;
-  background-color: #aaa;
+  background: rgba(0, 0, 0, 0.45);
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
-  border-radius: 7px;
   -webkit-transition: 1s;
   -moz-transition: 1s;
   transition: 1s;
+  width: 40px;
+  height: 40px;
+  display: block;
+  font-size: 36px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px 3px;
+  text-decoration: none;
 }
 #back-top a:hover {
-  background-color: #777;
+  background-color: #2b79c3;
+}
+
+#back-top i {
+    font-size: 24px;
+    line-height: 40px;
+    vertical-align: top;
+}
+/* 向上图标透明白色 */
+.fa-chevron-up:before {
+    color: rgba(252,252,252,0.81);
 }
 /*  Back Top Button  End */
