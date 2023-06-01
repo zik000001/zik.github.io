@@ -12,10 +12,5 @@ description: 文章金句。
 
 Test
 
-<script src="https://utteranc.es/client.js"
-        repo="zik000001/blog-img-Comment"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+
+<!DOCTYPE html><html lang="en"><head><title>utterances</title><meta name="description" content="A lightweight commenting system using GitHub issues."><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preconnect" href="https://api.github.com"><link rel="preconnect" href="https://avatars3.githubusercontent.com"><script type="module" src="/utterances.6ec01640.js"></script></head><body></body></html>
