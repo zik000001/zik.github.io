@@ -21,11 +21,3 @@ description: 文章金句。
 <a href='https://postimg.cc/zHRckX9t' target='_blank'><img src='https://i.postimg.cc/HnS1dr3g/voSScd.png' border='0' alt='voSScd'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以看出，OZ社是真心热爱同人创作，并真正投身于同人创作的！再想起现在的某些社团，以同人之名行商业之事，一心只为借IP之流量圈钱，而不注重作品的打磨，不得不让人感慨万千。
-
-<script src="https://utteranc.es/client.js"
-        repo="zik000001/blog-img-Comment"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
