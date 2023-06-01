@@ -14,7 +14,7 @@ Test
 
 <script src="https://utteranc.es/client.js"
         repo="zik000001/blog-img-Comment"
-        issue-term="pathname"
+        issue-term="https://ziyzk.online/blog/2022/09/01/how-to-write/"
         theme="github-light"
         crossorigin="anonymous"
         async>
