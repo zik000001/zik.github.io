@@ -71,7 +71,7 @@ description: 老爷，多日不见，你想小人吗？
 
 <a href='https://postimg.cc/V5dTgQkV' target='_blank'><img src='https://i.postimg.cc/8kHS1TQN/2022-09-05-083900.png' border='0' alt='2022-09-05-083900'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 3，69。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 3，69式。
 
 <a href='https://postimg.cc/zbRCLjq0' target='_blank'><img src='https://i.postimg.cc/63MYmjgJ/2022-09-05-083927.png' border='0' alt='2022-09-05-083927'/></a>
 
