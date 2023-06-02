@@ -16,7 +16,7 @@ description: 点到为止
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刚入手M70x的时候，我就地取材，用IPhone7连艾巴索的小尾巴DC05来听。实际听感上，声场比我之前用的airports pro要宽广不少，调音风格上和airports pro相差也比较大，具体差距我也记不太清了，貌似M70x的低频比airpots pro量要少，但M70x的瞬态很不错，所以听着声音比airports pro要干净利落。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来我又不满足于用小尾巴听歌了，便入手了索尼的A105。虽然这个小玩意在互联网上被骂得仿佛分文不值·一无是处，但它的表现却着实惊艳到我了。我的M70x连上它后，解析力上升到了新的境界。与之相比，之前用小尾巴和airports pro听歌时感觉各种乐器和人声仿佛都糊在一起了，而A105加M70x的组合则将各种乐器·人声之间分离得非常好，以至于有时候我甚至认为我的耳机一边坏了。（因为乐器分离得太彻底的，有时候感觉好像只有一边有声音）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来我又不满足于用小尾巴听歌了，便入手了索尼的A105。虽然这个小玩意在互联网上被骂得仿佛分文不值、一无是处，但它的表现却着实惊艳到我了。我的M70x连上它后，解析力上升到了新的境界。与之相比，之前用小尾巴和airports pro听歌时感觉各种乐器和人声仿佛都糊在一起了，而A105加M70x的组合则将各种乐器·人声之间分离得非常好，以至于有时候我甚至认为我的耳机一边坏了。（因为乐器分离得太彻底的，有时候感觉好像只有一边有声音）
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/t74CF4Ny' target='_blank'><img src='https://i.postimg.cc/Y21GK444/20221217114216.jpg' border='0' alt='20221217114216'/></a>
 
