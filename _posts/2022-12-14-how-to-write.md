@@ -20,7 +20,7 @@ description: 点到为止
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/t74CF4Ny' target='_blank'><img src='https://i.postimg.cc/Y21GK444/20221217114216.jpg' border='0' alt='20221217114216'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再后来，看了不少网友的文章，我决定出掉A105，并入手了索尼WM1A（俗称黑砖），结果声音并没有给我带来预想中的感动。虽然此时我的A105已经出手，无法将二者做一个横评，但我确实没感觉出来声音有什么巨大的进步。起初，我还以为是我用的3.5mm单端口听的缘故，便又买了一条4.4mm平衡线，结果一听，TM的有底噪！后来买了一个高阻抗头才解决了底噪的问题，再一听，也没听出来什么感动的感觉，貌似几千块钱打水漂了。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再后来，看了不少网友的文章，我决定出掉A105，并入手了索尼WM1A（俗称黑砖），结果声音并没有给我带来预想中的感动。虽然此时我的A105已经出手，无法将二者做一个横评，但我确实没感觉出来声音有什么巨大的进步。起初，我还以为是我用的3.5mm单端口听的缘故，便又买了一条4.4mm平衡线，结果一听，TM的有底噪！后来买了一个高阻抗头才解决了底噪的问题，再一听，也没听出来什么扣人魂魄的感觉，貌似几千块钱打水漂了。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/PpxsvPsR' target='_blank'><img src='https://i.postimg.cc/63V9SvHt/20221217114222.jpg' border='0' alt='20221217114222'/></a>
 
