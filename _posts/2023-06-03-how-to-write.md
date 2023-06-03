@@ -9,4 +9,4 @@ tags: [测试]
 
 测试一下视频播放模块能不能正常运行。
 
-<iframe height=240 width=320 src="https://streamable.com/2hct7e"></iframe>
+<iframe height=240 width=320 src="https://github.com/zik000001/zik.github.io/blob/master/img/luhua.mp4"></iframe>
