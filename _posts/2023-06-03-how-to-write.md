@@ -10,7 +10,7 @@ tags: [测试]
 测试一下视频播放模块能不能正常运行。
 
 <video width="320" height="240" controls>
-  <source src="_posts/luhua.mp4" type="video/mp4">
+  <source src="https://github.com/zik000001/zik.github.io/blob/master/_posts/luhua.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   您的浏览器不支持 video 标签。
 </video>
