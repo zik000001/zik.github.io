@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.由于本站图床使用的是国外的postimages，可能会被墙，故请翻墙后浏览本网站，否则可能会无法正常加载图片。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.进过实测，在未翻墙的情况下，本网站所上传之视频无法正常播放，故再次建议翻墙后浏览本站。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.经过实测，在未翻墙的情况下，本网站所上传之视频无法正常播放，故再次建议翻墙后浏览本站。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.本网站完全会员制，请不要将本网站内容擅自泄露，否则可能会有生命危险（迫真
 
