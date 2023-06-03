@@ -9,21 +9,8 @@ tags: [测试]
 
 测试一下视频播放模块能不能正常运行。
 
-
-<!-- 在你的HTML文件中，添加一个用于播放器的容器元素 -->
-<div id="dplayer"></div>
-
-<!-- 加载DPlayer的js文件 -->
-<script src="demo.js"></script>
-<script src="modernizr.js"></script>
-
-<!-- 在js中初始化DPlayer -->
-<script>
-    const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        video: {
-            url: 'https://streamable.com/2hct7e',
-        },
-    });
-</script>
-
+<video width="320" height="240" controls>
+  <source src="luhua.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  您的浏览器不支持 video 标签。
+</video>
