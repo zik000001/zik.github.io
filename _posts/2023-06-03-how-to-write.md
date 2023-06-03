@@ -7,8 +7,4 @@ categories: blog
 tags: [测试]
 ---
 
-<video width="320" height="240"controls>
-  <source src="movie.mp4" type="video.mp4">
-  <source src="movie.ogg" type="video/ogg">
-    您的浏览器不支持video标签。
-</video>
+<iframe height=498 width=510 src="https://m.bilibili.com/video/BV1M64y1o77U"></iframe>
