@@ -22,7 +22,7 @@ tags: [测试]
     const dp = new DPlayer({
         container: document.getElementById('dplayer'),
         video: {
-            url: 'demo.mp4](https://streamable.com/2hct7e',
+            url: 'https://streamable.com/2hct7e',
         },
     });
 </script>
