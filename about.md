@@ -13,7 +13,7 @@ header-img: "img/green.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.经过实测，在未翻墙的情况下，本网站所上传之视频无法正常播放，故再次建议翻墙后浏览本站。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.如有疑问请联系站长邮箱，或留言时留下你的邮箱，以便站长进行答复。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.如有疑问请联系站长邮箱，或评论时留下你的邮箱，以便站长进行答复。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.本网站完全会员制，请不要将本网站内容擅自泄露，否则可能会有生命危险（迫真
 
