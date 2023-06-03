@@ -13,7 +13,8 @@ tags: [测试]
 <div id="dplayer"></div>
 
 <!-- 加载DPlayer的js文件 -->
-<script src="DPlayer.min.js"></script>
+<script src="demo.js"></script>
+<script src="modernizr.js"></script>
 
 <!-- 在js中初始化DPlayer -->
 <script>
