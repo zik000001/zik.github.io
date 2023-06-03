@@ -13,7 +13,7 @@ npm install dplayer --save
 
 <div id="dplayer"></div>
 
-<script src="demo.js"></script>
+<script src="modernizr.js"></script>
 
 <script>
     const dp = new DPlayer({
