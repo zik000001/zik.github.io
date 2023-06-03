@@ -9,6 +9,15 @@ tags: [测试]
 
 测试一下视频播放模块能不能正常运行。
 
-npm install dplayer --save
 <div id="dplayer"></div>
+
 <script src="DPlayer.min.js"></script>
+
+<script>
+    const dp = new DPlayer({
+        container: document.getElementById('dplayer'),
+        video: {
+            url: 'luhua.mp4',
+        },
+    });
+</script>
