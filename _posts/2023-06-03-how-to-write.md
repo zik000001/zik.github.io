@@ -13,7 +13,7 @@ npm install dplayer --save
 
 <div id="dplayer"></div>
 
-<script src="DPlayer.min.js"></script>
+<script src="demo.js"></script>
 
 <script>
     const dp = new DPlayer({
