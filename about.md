@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 
 注：
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.由于本站图床使用的是国外的postimages，可能会被墙，故请翻墙后浏览本网站，否则可能会无法正常加载图片。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.由于本站图床使用的是站长的Github仓库，故请翻墙后浏览本网站，否则会无法正常加载图片。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.经过实测，在未翻墙的情况下，本网站所上传之视频无法正常播放，故再次建议翻墙后浏览本站。
 
