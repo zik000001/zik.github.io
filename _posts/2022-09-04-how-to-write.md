@@ -49,7 +49,7 @@ description:
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan04.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan04.png?raw=true' border='0' alt='shixuehan04'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 1：迎宾酒！（不应该先吃饭，后喝汤吗？先给客人上酒的餐厅是屑）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stage 1，迎宾酒！（不应该先吃饭，后喝汤吗？先给客人上酒的餐厅是屑）
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan05.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan05.png?raw=true' border='0' alt='shixuehan05'/></a>
 
