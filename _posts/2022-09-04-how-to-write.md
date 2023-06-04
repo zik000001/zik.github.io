@@ -73,7 +73,7 @@ description:
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan09.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan09.png?raw=true' border='0' alt='shixuehan09'/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名场面 get。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名场面 get！
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在品鉴这道菜时，二人难以主动进餐。为避免食材浪费，服务员开始主动喂食。
 
@@ -97,7 +97,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我修院：“总算是有正常的食物了。”（喜）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;淳平：“不不。”（无慈悲）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。再然后，在服务员淳平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接着布丁便被捣碎，装入注射器并被注入服务员真寻的肛门。然后，布丁从真寻的肛门内喷射入碗。再然后，在服务员淳平和真寻的投喂下，德川和我修院吃完了这最后一道菜。
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan15.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan15.png?raw=true' border='0' alt='shixuehan15'/></a>
 
