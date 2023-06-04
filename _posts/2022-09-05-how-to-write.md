@@ -31,7 +31,9 @@ description: 老爷，多日不见，你想小人吗？
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开场的Homo特有无意义运镜与周董本篇简直有异曲同工之妙！
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小人：奴才参见王爷。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王爷：免礼金身。（Homo特有有礼貌
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小人：奴才参见王爷。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王爷：免礼金身。（Homo特有有礼貌
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/wangye02.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/wangye02.png?raw=true' border='0' alt='wangye02'/></a>
 
