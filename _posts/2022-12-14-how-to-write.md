@@ -18,10 +18,10 @@ description: 点到为止
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来我又不满足于用小尾巴听歌了，便入手了索尼的A105。虽然这个小玩意在互联网上被骂得仿佛分文不值、一无是处，但它的表现却着实惊艳到我了。我的M70x连上它后，解析力上升到了新的境界。与之相比，之前用小尾巴和airports pro听歌时感觉各种乐器和人声仿佛都糊在一起了，而A105加M70x的组合则将各种乐器、人声之间分离得非常好，以至于有时候我甚至认为我的耳机一边坏了。（因为乐器分离得太彻底的，有时候感觉好像只有一边有声音）
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/t74CF4Ny' target='_blank'><img src='https://i.postimg.cc/Y21GK444/20221217114216.jpg' border='0' alt='20221217114216'/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/zik000001/zik.github.io/blob/master/img/HIFI01.jpg' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/HIFI01.jpg?raw=true' border='0' alt='HIFI01'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再后来，看了不少网友的文章，我决定出掉A105，并入手了索尼WM1A（俗称黑砖），结果声音并没有给我带来预想中的感动。虽然此时我的A105已经出手，无法将二者做一个横评，但我确实没感觉出来声音有什么巨大的进步。起初，我还以为是我用的3.5mm单端口听的缘故，便又买了一条4.4mm平衡线，结果一听，TM的有底噪！后来买了一个高阻抗头才解决了底噪的问题，再一听，也没听出来什么扣人魂魄的感觉，貌似几千块钱打水漂了。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://postimg.cc/PpxsvPsR' target='_blank'><img src='https://i.postimg.cc/63V9SvHt/20221217114222.jpg' border='0' alt='20221217114222'/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/zik000001/zik.github.io/blob/master/img/HIFI02.jpg' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/HIFI02.jpg?raw=true' border='0' alt='HIFI02'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所以入HIFI，点到即可，价格达到一定程度后再往里投钱提升就比较有限了。现在，作为一个退烧之人，只想说一句：早知道，还是原道。
