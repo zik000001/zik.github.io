@@ -10,7 +10,7 @@ description:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1908127754&auto=1&height=66"></iframe>
 
-<a href='https://postimg.cc/s1XhtJfW' target='_blank'><img src='https://i.postimg.cc/wx5QRWSw/Homo.jpg' border='0' alt='Homo'/></a>
+<a href='https://github.com/zik000001/zik.github.io/blob/master/img/Homo.jpg' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/Homo.jpg?raw=true' border='0' alt='Homo'/></a>
 
 序：为什么我要写这篇文章？因为随着inm梗的dssq，越来越多的人开始对inm本篇感兴趣,但真正看完后，一些本篇的内容又会给一部分人留下阴影。为了减少这种不幸的发生，故作此篇，以震撼感较低（至少比直接看本篇低）的方法来缓解没看过本篇之人的好奇心（你直接告诉没看过的人别看，大概率只会加重其好奇心）。同时通过尚存的部分震撼感让一部分小鬼产生阴影并退圈，为inm圈留下更多真homo。
 
@@ -25,7 +25,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;很多人应该都看过这类视频罢：两名身着西装的男子，坐在黑色高级沙发上，伴随着高雅的圣诞快乐·劳伦斯先生，细细品鉴着面前的食品，脸上洋溢着和我品鉴食雪汉本篇时一样难以表述的神情。德川和我修院品鉴食品，我品鉴视频，我们都有一样（homo）光明的未来！（误
 
-<a href='https://postimg.cc/9rGDywgz' target='_blank'><img src='https://i.postimg.cc/J4FjVbb3/2022-09-04-121424.png' border='0' alt='2022-09-04-121424'/></a>
+<a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan.png?raw=true' border='0' alt='2022-09-04-121424'/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;即使是没看过这类视频，那应该也在一些美食区的视频里见过如“是雪罢”这样的弹幕罢（现在的小鬼属实是多，亚文化这么dssq可不是一件好事啊）。这东西前段时间貌似还上了梗百科，这种小鬼生成器要搁霓虹国怕是早就被炎上开盒，爆破警告了罢。
 
