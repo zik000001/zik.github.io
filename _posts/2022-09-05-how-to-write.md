@@ -1,6 +1,6 @@
 ---
 layout: post
-header-img: "img/wangye.png"
+header-img: "img/wangye00.png"
 title: 淫梦鉴赏-王爷本篇
 date: 2022-09-05
 categories: blog
