@@ -33,7 +33,7 @@ description:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀黍已经开始给淫梦限流了（悲
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从今天做起，从你我做起，不当只玩梗的小鬼，正式成为一个一个敢于迎男而上的Homo罢！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从今天开始，从你我做起，不当只玩梗的小鬼，正式成为一个一个敢于迎男而上的Homo罢！
 
 <a href='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan02.png' target='_blank'><img src='https://github.com/zik000001/zik.github.io/blob/master/img/shixuehan02.png?raw=true' border='0' alt='shixuehan02'/></a>
 
