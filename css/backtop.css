@@ -31,6 +31,6 @@
 }
 /* 向上图标透明白色 */
 .fa-chevron-up:before {
-    color: white
+    color: rgba(225, 225, 225, 225)
 }
 /*  Back Top Button  End */
