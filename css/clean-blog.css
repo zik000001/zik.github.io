@@ -507,9 +507,9 @@ form .row:first-child .floating-label-form-group {
   background: #00c9d7;
 }
 ::selection {
-  color: white;
-  text-shadow: none;
-  background: #00c9d7;
+    color: white;
+    text-shadow: none;
+    background: #00c9d7;
 }
 img::selection {
   color: white;
